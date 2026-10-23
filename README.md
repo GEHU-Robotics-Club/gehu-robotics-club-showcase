@@ -52,3 +52,58 @@ As **President of the Robotics & Automation Club at Graphic Era Hill University 
 *B.Tech in Electronics & Communication Engineering (2023–2027)*  
 *Graphic Era Hill University (GEHU), Bhimtal Campus*  
 *Contact:* `parthdalakoti482@gmail.com`
+
+---
+
+## 🏛️ Executive Leadership & Faculty Advisory Roster
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/gehu-robotics-team-official-blazer.jpg" width="100%" alt="Official Executive Leadership Body" style="border-radius: 6px;" />
+      <br />
+      <b>Executive Leadership Body</b>
+      <br />
+      <i>President Parth Dalakoti and Core Officers in University Blazers</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="media/gehu-robotics-faculty-mentor-executive-body.jpg" width="100%" alt="Faculty Advisory" style="border-radius: 6px;" />
+      <br />
+      <b>Faculty Advisory & Department Mentorship</b>
+      <br />
+      <i>Club Leadership with Faculty Advisor at the Engineering Showcase</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/gehu-robotics-seminar-illuminated-bench.jpg" width="100%" alt="Illuminated Demonstration Bench" style="border-radius: 6px;" />
+      <br />
+      <b>Live Demonstration Bench in University Seminar Hall</b>
+      <br />
+      <i>Active testbench with LED beacon rovers and live sensor telemetry</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="media/gehu-robotics-campus-outdoor-cohort.jpg" width="100%" alt="GEHU Robotics Campus Cohort" style="border-radius: 6px;" />
+      <br />
+      <b>Campus Outdoor Robotics Cohort</b>
+      <br />
+      <i>GEHU Robotics & Automation Club on Campus with Competition Rovers</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/parth-dalakoti-gehu-student-mentorship.jpg" width="100%" alt="Student Mentorship" style="border-radius: 6px;" />
+      <br />
+      <b>Hands-On Circuit & Firmware Mentorship</b>
+      <br />
+      <i>Parth Dalakoti leading embedded systems seminar in the computer lab</i>
+    </td>
+    <td width="50%" align="center">
+      <img src="media/gehu-student-cad-programming-lab.jpg" width="100%" alt="CAD and Programming Lab" style="border-radius: 6px;" />
+      <br />
+      <b>Workstation Microcontroller Programming</b>
+      <br />
+      <i>Students simulating and programming autonomous firmware in the CAD lab</i>
+    </td>
+  </tr>
+</table>
